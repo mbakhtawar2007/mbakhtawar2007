@@ -27,7 +27,3 @@ Tools: Git, GitHub, Postman
 💼 LinkedIn: https://www.linkedin.com/in/muhammad-bakhtawar-50502b2a8/
 
 📧 Email: m.bakhtawar.sce@gmail.com
-
-💼 LinkedIn: [your-linkedin-link]
-
-📧 Email: [your-email]
