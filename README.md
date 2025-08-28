@@ -1,16 +1,33 @@
-## Hi there 👋
+💻 About Me
 
-<!--
-**mbakhtawar2007/mbakhtawar2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Muhammad Bakhtawar 👋
+A Full Stack Developer & AI Automation Engineer passionate about building scalable web apps and smart automation workflows.
 
-Here are some ideas to get you started:
+🚀 Tech Stack & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend: HTML5, CSS3, Bootstrap 5, JavaScript, React.js
+
+Backend: Node.js, Express.js
+
+Databases: MongoDB, MySQL
+
+Automation & AI: Python, n8n
+
+Tools: Git, GitHub, Postman
+
+🌍 Always learning, collaborating, and working on impactful projects.
+
+
+🌟 GitHub Stats
+
+📫 Connect with Me
+
+🌐 Portfolio: https://mydevportfollio.netlify.app/
+
+💼 LinkedIn: https://www.linkedin.com/in/muhammad-bakhtawar-50502b2a8/
+
+📧 Email: m.bakhtawar.sce@gmail.com
+
+💼 LinkedIn: [your-linkedin-link]
+
+📧 Email: [your-email]
